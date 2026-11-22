@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taro1025.github.io/sakana-oroshi-site/sitemap.xml
+Sitemap: https://sakanaoroshi.process-craft-ai.com/sitemap.xml

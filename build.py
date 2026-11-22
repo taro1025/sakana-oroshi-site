@@ -8,7 +8,7 @@ import os
 
 from PIL import Image
 
-BASE = "https://taro1025.github.io/sakana-oroshi-site/"
+BASE = "https://sakanaoroshi.process-craft-ai.com/"
 APP_ID = ""
 MAIL = "rintaro.sakino@process-craft-ai.com"
 ICON = os.path.expanduser("~/sakana-oroshi/art/icon-1024.png")
