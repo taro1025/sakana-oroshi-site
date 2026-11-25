@@ -9,7 +9,7 @@ import os
 from PIL import Image
 
 BASE = "https://sakanaoroshi.process-craft-ai.com/"
-APP_ID = ""
+APP_ID = "6839185607"
 MAIL = "rintaro.sakino@process-craft-ai.com"
 ICON = os.path.expanduser("~/sakana-oroshi/art/icon-1024.png")
 UPDATED = {"ja": "2026年11月23日", "en": "November 23, 2026"}
