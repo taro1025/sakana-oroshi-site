@@ -5,7 +5,7 @@ INDEX_JA = """<section class="hero">
 <h1>さかなおろし</h1>
 <p class="sub">声で進む魚のさばき方</p>
 <p>魚を前に、まな板の横に置いておく手順書です。魚の種類を選ぶと、おろし方が一歩ずつ図で出ます。魚をさわった手のまま「つぎ」と言えば次の手順へ。画面に触らなくていいので、動画を止めて手を洗う手間がありません。</p>
-<p class="cta">App Store で「さかなおろし」と検索してください。</p>
+<p><a class="cta" href="{store}">App Store でダウンロード</a></p>
 </section>
 <section>
 <h2>できること</h2>
@@ -27,7 +27,7 @@ INDEX_EN = """<section class="hero">
 <h1>Oroshi</h1>
 <p class="sub">Hands-free fish prep, step by step</p>
 <p>A step-by-step guide that sits next to your cutting board. Pick the fish and Oroshi shows how to break it down, one clear diagram at a time. Your hands are wet and smell of fish, so just say "next" to move on.</p>
-<p class="cta">Search for "Oroshi" on the App Store.</p>
+<p><a class="cta" href="{store}">Download on the App Store</a></p>
 </section>
 <section>
 <h2>Features</h2>
